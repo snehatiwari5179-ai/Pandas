@@ -15,3 +15,10 @@
 🔄 Current Focus
 • Moving into Data Cleaning: Handling missing values, duplicates, and data formatting.
 
+[📁 View Image Gallery](https://github.com/snehatiwari5179-ai/Pandas/tree/main/images)
+📊 Plot Breakdown
+
+* Figure 1: Bar Chart — Salary distribution
+* Figure 2: Scatter Plot — Experience vs. Salary correlation
+* Figure 3: Line Chart — Employee ID vs. Salary trends
+* Figure 4: Histogram — Salary frequency distribution.
