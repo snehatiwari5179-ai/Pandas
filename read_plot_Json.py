@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_json("emp.json")
+df = pd.read_json("Emp.json")
 print(df)
 
 print(df.describe())     # Gives statistical summary of the DataFrame.
