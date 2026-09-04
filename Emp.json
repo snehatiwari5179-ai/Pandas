@@ -1,0 +1,152 @@
+[
+    {
+        "Employee_ID": "E001",
+        "Name": "Aarav Sharma",
+        "Age": 24,
+        "Department": "Sales",
+        "City": "Kolkata",
+        "Salary": 38000,
+        "Experience": 1,
+        "Performance_Score": 82
+    },
+    {
+        "Employee_ID": "E002",
+        "Name": "Diya Mehta",
+        "Age": 27,
+        "Department": "IT",
+        "City": "Bengaluru",
+        "Salary": 62000,
+        "Experience": 4,
+        "Performance_Score": 91
+    },
+    {
+        "Employee_ID": "E003",
+        "Name": "Rohan Das",
+        "Age": 29,
+        "Department": "Finance",
+        "City": "Mumbai",
+        "Salary": 58000,
+        "Experience": 5,
+        "Performance_Score": 88
+    },
+    {
+        "Employee_ID": "E004",
+        "Name": "Ananya Roy",
+        "Age": 26,
+        "Department": "HR",
+        "City": "Kolkata",
+        "Salary": 45000,
+        "Experience": 3,
+        "Performance_Score": 79
+    },
+    {
+        "Employee_ID": "E005",
+        "Name": "Kabir Singh",
+        "Age": 31,
+        "Department": "IT",
+        "City": "Delhi",
+        "Salary": 75000,
+        "Experience": 7,
+        "Performance_Score": 95
+    },
+    {
+        "Employee_ID": "E006",
+        "Name": "Meera Patel",
+        "Age": 28,
+        "Department": "Marketing",
+        "City": "Ahmedabad",
+        "Salary": 52000,
+        "Experience": 4,
+        "Performance_Score": 86
+    },
+    {
+        "Employee_ID": "E007",
+        "Name": "Aditya Verma",
+        "Age": 25,
+        "Department": "Sales",
+        "City": "Pune",
+        "Salary": 41000,
+        "Experience": 2,
+        "Performance_Score": 84
+    },
+    {
+        "Employee_ID": "E008",
+        "Name": "Ishita Sen",
+        "Age": 30,
+        "Department": "Finance",
+        "City": "Kolkata",
+        "Salary": 67000,
+        "Experience": 6,
+        "Performance_Score": 92
+    },
+    {
+        "Employee_ID": "E009",
+        "Name": "Arjun Kapoor",
+        "Age": 33,
+        "Department": "IT",
+        "City": "Hyderabad",
+        "Salary": 82000,
+        "Experience": 9,
+        "Performance_Score": 97
+    },
+    {
+        "Employee_ID": "E010",
+        "Name": "Sara Khan",
+        "Age": 23,
+        "Department": "Marketing",
+        "City": "Mumbai",
+        "Salary": 36000,
+        "Experience": 1,
+        "Performance_Score": 76
+    },
+    {
+        "Employee_ID": "E011",
+        "Name": "Vikram Joshi",
+        "Age": 35,
+        "Department": "Finance",
+        "City": "Delhi",
+        "Salary": 88000,
+        "Experience": 11,
+        "Performance_Score": 94
+    },
+    {
+        "Employee_ID": "E012",
+        "Name": "Nisha Gupta",
+        "Age": 27,
+        "Department": "HR",
+        "City": "Pune",
+        "Salary": 47000,
+        "Experience": 4,
+        "Performance_Score": 81
+    },
+    {
+        "Employee_ID": "E013",
+        "Name": "Rahul Bose",
+        "Age": 32,
+        "Department": "Sales",
+        "City": "Chennai",
+        "Salary": 59000,
+        "Experience": 8,
+        "Performance_Score": 89
+    },
+    {
+        "Employee_ID": "E014",
+        "Name": "Tanya Malhotra",
+        "Age": 26,
+        "Department": "IT",
+        "City": "Bengaluru",
+        "Salary": 64000,
+        "Experience": 3,
+        "Performance_Score": 90
+    },
+    {
+        "Employee_ID": "E015",
+        "Name": "Kunal Roy",
+        "Age": 29,
+        "Department": "Marketing",
+        "City": "Kolkata",
+        "Salary": 54000,
+        "Experience": 5,
+        "Performance_Score": 87
+    }
+]
