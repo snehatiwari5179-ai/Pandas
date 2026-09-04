@@ -1,5 +1,5 @@
 # Pandas
- A structured repository tracking my learning journey and hands-on practice with the Python Pandas library using VS Code. Built as part of my career transition/growth into Data Analytics, using W3Schools as a foundational reference.
+ A structured repository tracking my learning journey and hands-on practice with the Python Pandas library using VS Code. Built as part of my career goal into Data Analytics, using W3Schools as a foundational reference.
 
 🛠️ Tech Stack & Tools
 • Language: Python
